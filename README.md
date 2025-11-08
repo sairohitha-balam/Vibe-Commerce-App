@@ -33,15 +33,15 @@ The application features a **React frontend** that communicates via a **REST API
 ## Screenshots
 
 ### Product & Hero Page
-![Product Page Placeholder](./screenshots/product-hero.png)
-![Alternate View](./screenshots/product-hero1.png)
+![Product Page Placeholder](./Screenshots/product-hero.png)
+![Alternate View](./Screenshots/product-hero1.png)
 
 ### Cart View
-![Cart View Placeholder](./screenshots/cart.png)
+![Cart View Placeholder](./Screenshots/cart.png)
 
 ### Checkout & Receipt
-![Checkout Placeholder](./screenshots/checkout.png)
-![Receipt](./screenshots/receipt.png)
+![Checkout Placeholder](./Screenshots/checkout.png)
+![Receipt](./Screenshots/receipt.png)
 
 ---
 
@@ -58,8 +58,8 @@ Follow these steps to get the application running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
-cd vibe-commerce-cart
+git clone <https://github.com/sairohitha-balam/Vibe-Commerce-App>
+cd vibe-commerce-app
 ```
 ###2. Backend Setup
 
